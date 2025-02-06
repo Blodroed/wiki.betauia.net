@@ -1,2 +1,19 @@
 site_name: wiki.betauia.net
-theme: material
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  custom_dir: style
+
+extra_css:
+  - style/theme.css

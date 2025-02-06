@@ -1,16 +1,18 @@
 # About
- > BetaLAN er ett lan av studenter for studenter ved UiA, hovedsaklig UiA Grimstad.
+ > BetaLAN is the comitee responsible for the coolest LAN-PARTY in Grimstad!!
 
-## Hva er Betalan
+## What is Betalan
 
-Betalan er et dataparty hvor det foregår konkurranser innenfor ulike dataspill. Det er også en sosial arena hvor ulike studenter kan treffes og rett og slett ta det helt med ro fra studie og andre hverdagslige problemer. BetaLAN er en datterorganisasjon av Beta med eget styre, bestående av BetaLAN ansvarlig, Betas nestleder og leder. BetaLAN er først og fremst åpent for alle studenter ved UiA og er helt alkoholfritt! Betalan har som mål å arrangere LAN en gang i semesteret. LANet har en forøvrig maksgrense på 100 personer så husk å vær raskt ute med å få tak i billetter. 
+Betalan is a LAN party where competitions are held in various computer games. It is also a social arena where different students can meet and simply relax from studies and other everyday problems. BetaLAN is a subsidiary organization of Beta with its own board, consisting of the BetaLAN Leader, Beta's deputy leader. BetaLAN is primarily open to all students at UiA and is completely alcohol-free! Betalan aims to organize a LAN once per semester. The LAN has a maximum limit of 100 people, so remember to get your tickets quickly.
 
- 
 # BetaLAN crew
 
-BetaLAN har selvfølgelig et crew. Antall crewmedlemmer varierer fra år til år, men normalt har det pleid å være mellom 7 til 10 personer eksklusiv styret. For å bli med i crewet kan det søkes om plass ved å fylle ut en søknad. BetaLAN crewet søknader blir plukket ut hele tiden og det er BetaLAN ansvarlig i Beta som plukker ut sitt crew.
+BetaLAN is nothing without its awesome Crew Members. The number of crew members varies from year to year, but it has usually been between 7 to 10 people, excluding the board. To join the crew, you can show up to one of our weekly meetings (check with BetaLAN leader in the discord when this is).
 
- 
-# Konkurranser
+# Competitions
 
-Det er pleid å være en del konkurranser i spill som blir foreslått av deltakerne, for mer informasjon angående det, sjekk forumet. Noen vanlige klassikere har vært Trackmania og Mario Kart 64.
+There have usually been several competitions in games suggested by the participants. For more information about this, check the forum. Some classics have been StepmaniaX and Fall Guys.
+
+# Agder's Best Gamer
+
+**Agder's Best Gamer** is a competition held in the spring semester where participants compete in multiple games. Each game contributes to the participants' total score, and at the end, the participant with the highest score is crowned **Agder's Best Gamer** for that year.

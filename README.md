@@ -36,7 +36,7 @@ This wiki is written in wikidocs and you can run the wiki on your machine locall
 ### Installing required packages
 1. Install `mkdocs` and `awesome-pages`:
   ```sh
-  pip install mkdocs mkdocs-awesome-pages-plugin
+  pip install -r requirements.txt
   ```
 
 ### Running the wiki locally

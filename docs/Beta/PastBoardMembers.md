@@ -9,6 +9,7 @@
 * Thomas Macfarlane - BetaSEC Leader
 * Ask Sødal - BetaDEV Leader
 * Albert Salvesen-Orø - BetaLAN Leader
+* Thomas Hetland  - PR Manager
 
 ## 2022
 * *-NO-ANSWER-* - Leader
@@ -19,6 +20,7 @@
 * *-NO-ANSWER-* - BetaSEC Leader
 * *-NO-ANSWER-* - BetaDEV Leader
 * *-NO-ANSWER-* - BetaLAN Leader
+* *-NO-ANSWER-* - PR Manager
 
 ## 2021
 * *-NO-ANSWER-* - Leader
@@ -85,8 +87,8 @@
 * Knut Eivind Sandsmark - Deputy Leader
 * John Føreland - PR/Web Manager
 * Martin Abrahamsen - BetaLAN Leader
-* Sahand Johansen - Event Manager
-* Ørjan Solli - Finance/Material Manager
+* Sahand Johansen - Event commitee Leader
+* Ørjan Solli - Finance/Material Leader
 * Jonathan Luu - Board Member
 * Mohamed Samatar - Board Member
 
@@ -94,7 +96,7 @@
 * Anders Refsdal Olsen - Leader
 * Shahab Afsharipour - Deputy Leader
 * Huy Quy Vu - Finance Manager
-* Nina Over - Event Manager
+* Nina Over - Event commitee Leader
 * Martin Abrahamsen - BetaLAN Leader
 * Tommy Johannessen - PR Manager
 * Kim-Leonhard Halvorsen Enger - Graphic Designer

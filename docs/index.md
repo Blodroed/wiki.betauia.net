@@ -1,13 +1,13 @@
 # Home
 > wiki.betauia.net
 
-Dette er wiki'en til BETA, som da er linjeforeningen til datastudentene ved UiA Grimstad.
+This is the wiki for BETA, which is the student association for computer science students at UiA Grimstad.
 
-Her vil du finne informasjon om BETA og de forskjellige komiteene
+Here you will find information about BETA and the different committees
 
-* BetaLan (Lan Party)
-* BetaSec (Sikkerhet)
-	* UiACTF (Offisielt Universitet CTF lag)
-* BetaDev (Utvikling)
-* Eventkom (Arrangementer)
-* Bedkom (Bedrifts Presentasjoner)
+* BetaLAN (Lan Party)
+* BetaSEC (Cybersecurity)
+	* UiACTF (Official University CTF team)
+* BetaDEV (Development)
+* Eventkom (Events)
+* Bedkom (Company Presentations)

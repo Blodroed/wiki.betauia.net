@@ -4,4 +4,4 @@
 Det er foreløpig ikke så mye her, kom inn etter Sommerferien så burde det være noe mer her :)
 
 # Spørsmål
-event@betauia.net(Jon Inntveit)
+event@betauia.net

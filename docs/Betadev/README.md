@@ -8,6 +8,9 @@ This is our main site in which we use most of our development time on. The proje
 
 ### If you want to work on other projects please contact us
 
-Visit our main site [here](https://your-main-site-url.com).
+Visit our main site [here](https://www.betauia.net).
 
 If you are interested in helping to maintain and develop the website and other projects for beta, contact the board(Styret) at our [Discord](https://discord.gg/UQCPkZD)
+
+## Projects
+- [BetaWEB](./projects/BetaWEB)

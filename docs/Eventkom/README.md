@@ -1,7 +1,7 @@
 # About
-> Beta komité, ansvarlig for events/arrangementer som arrangeres av Beta.
+> Beta committee, responsible for events organized by Beta.
 
-Det er foreløpig ikke så mye her, kom inn etter Sommerferien så burde det være noe mer her :)
+Currently no info, don't worry it will come :)
 
-# Spørsmål
+# Questions
 event@betauia.net

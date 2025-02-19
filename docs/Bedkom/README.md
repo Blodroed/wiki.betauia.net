@@ -1,5 +1,6 @@
 # About
 > Beta komité, ansvarlig for Bedrifter som kommer på besøk til BETA på UiA, Grimstad.
+
 *English version starts [here](#english-version)*
 
 # Spørsmål
@@ -26,8 +27,7 @@ Under har vi valgt å svare på ofte stilte spørsmål (OSS/FAQ) angående bedri
 
 ---
 
-  # English version
-  Certainly! Here's the translation of the provided text:
+# English version
 
 # About
 > Beta committee, responsible for companies visiting BETA at UiA, Grimstad.

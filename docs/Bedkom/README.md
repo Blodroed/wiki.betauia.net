@@ -1,5 +1,6 @@
 # About
 > Beta komité, ansvarlig for Bedrifter som kommer på besøk til BETA på UiA, Grimstad.
+
 *English version starts [here](#english-version)*
 
 # Spørsmål

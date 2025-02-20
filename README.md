@@ -45,3 +45,6 @@ This wiki is written in wikidocs and you can run the wiki on your machine locall
   mkdocs serve
   ```
 2. Open your web browser and go to `http://127.0.0.1:8000` to view the wiki.
+
+### Awesome-nav
+The wiki is setup with awesome nav. When adding files to the original directories you will not need to do anything. But if you want new sections or tinker with the nav you can read [awesome-nav](https://lukasgeiter.github.io/mkdocs-awesome-nav/) where most of the configuration will happen in `docs/.nav.yml`

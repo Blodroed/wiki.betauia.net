@@ -1,20 +1,24 @@
+flatten_single_child_section: true
+
+ignore: "*.hidden.md"
+
 nav:
 - Home: index.md
-- BETA: 
-  - Beta/README.md
-  - glob: "Beta/*.md"
+- BETA:
+  - "Beta/README.md"
+  - "Beta/*.md"
 - BetaDEV:
   - BetaDEV/README.md
-  - glob: "BetaDEV/*.md"
+  - "BetaDEV/*.md"
 - BetaSEC:
   - BetaSEC/README.md
-  - "BetaSEC/*"
+  - "BetaSEC/*.md"
 - BetaLAN:
   - BetaLAN/README.md
   - "BetaLAN/*.md"
 - Eventkom: 
   - Eventkom/README.md
   - "Eventkom/*.md"
-- Bedkom: 
+- Bedkom:
   - Bedkom/README.md
   - "Bedkom/*.md"
